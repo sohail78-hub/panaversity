@@ -38,7 +38,7 @@ v. Confirm Your Email
 
 ✅ Done! You now have a GitHub account.
 
--------------------------------------------------
+------------------------------------------------- 
 
 🟢 Step 2: Create a New Repository (Your First Project Folder)
 
